@@ -1,0 +1,3 @@
+#!/user/bin/env bash
+# Listing The Processes
+ps -A uf
