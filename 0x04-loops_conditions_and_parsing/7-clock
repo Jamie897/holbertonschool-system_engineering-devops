@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Suspicious Numbers
 i=1
+j=0
 while [ "$j" -le 12 ]
 do
 	echo "Hour: $j"
