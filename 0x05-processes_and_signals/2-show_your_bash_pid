@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Showing PID
+# shellcheck diasble=SC2009
+ps -aux | grep "bash"
