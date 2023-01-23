@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Easy Pid
+pgrep bash | sed -e 's/$/ bash/'
